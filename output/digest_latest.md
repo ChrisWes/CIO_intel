@@ -1,17 +1,3 @@
-# CIO/CDIO Appointment Digest — 2026-10-05
+# CIO/CDIO Appointment Digest — 2026-10-12
 
-1 new appointment(s): 1 Tier 1, 0 Tier 2.
-
-## Tier 1 — C-suite technology leadership
-
-### Mohsen Ghasempour — Chief AI Officer (CAIO) at Morrisons
-
-Previously: Chief AI Officer (CAIO) at Kingfisher Group (B&Q parent company) · Start date: 2026-09-01
-
-Newly created role, tasked with establishing central data science and AI function, reports directly to CEO.
-
-[ComputerWeekly](https://www.computerweekly.com/feature/Has-the-time-arrived-for-the-retail-chief-AI-officer)
-
-## Tier 2 — Senior technology roles with likely buying authority
-
-None this week.
+No new appointments detected this week.
