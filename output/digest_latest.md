@@ -1,14 +1,16 @@
-# CIO/CDIO Appointment Digest — 2026-10-19
+# CIO/CDIO Appointment Digest — 2026-10-26
 
 1 new appointment(s): 1 Tier 1, 0 Tier 2.
 
 ## Tier 1 — C-suite technology leadership
 
-### Harriet Rees — Group CIO at Starling
+### Chris Blatchford — Group CTO at Tesco
 
-Working with Civo and NVIDIA to train proprietary AI model on sovereign UK cloud infrastructure
+Previously: Kingfisher plc (runs tech for B&Q, Brico Dépôt, Castorama, and Screwfix) · Start date: 2027-03-01
 
-[The Stack](https://www.thestack.technology/runtime-its-time-to-rethink-data-platforms-for-agents/)
+Replaces retiring Group CIO Guus Dekkers (departing December 2026); joining in March 2027
+
+[The Stack](https://www.thestack.technology/tesco-migrates-vmware-proxmox/)
 
 ## Tier 2 — Senior technology roles with likely buying authority
 
